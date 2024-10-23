@@ -3,27 +3,32 @@
  ## Project Title - Grish Sales Data Analysis from 2015-2017
 
 ### Project Overview
+---
 This Data Analysis Project aim to generate insights into the sales performance of the Grish sales over the years.By analysing various parameters like revenue by region, sales trend, yeaarly changes in revenue etc in the data received.We seek to gatherenough insightbto makereasonable decisions which then enable usto make the right visualization from the given data.
 
 ### Data Sources
+---
 The primary source of Data used here is Dta Sales.XLXS
 
 ### Tools Used
+---
 -Microsoft Excel ,[Download Here][https://www.microsoft.com]
   1. For data cleaning
   2. Data Visualization
   3. For Analysis
-
+- Excel
 - Power Bi
 - Tableau
 - SQL (Structured Query Language
   
  ### Data Cleaning
+ ---
  At the initial stage of the data cleaning, i performede the folowing steps;
    - remove blank rows and columns
    - remove duplicates
    - data cleaning and formatting 
 ### Exploratory Data Analysis
+---
  - EDA involves the exploring of data to answer some questions about the data such as;
  - The report should capture the following
 1.    Revenue by Region
@@ -32,7 +37,8 @@ The primary source of Data used here is Dta Sales.XLXS
 4. Sales trend
 5.    Yearly changes in revenue
 
-   ### Data Analsis
+   ### Data Analysis
+   ---
 This is where some functions were used during the analysis 
 ``` Excel
 Trim( Proper(A2)
