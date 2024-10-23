@@ -7,3 +7,13 @@ This Data Analysis Project aim to generate insights into the sales performance o
 
 ### Data Sources
 The primary source of Data used here is Dta Sales.XLXS
+
+### Tools Used
+-Microsoft Excel ,[Download Here][https://www.microsoft.com]
+  1. For data cleaning
+  2. Data Visualization
+  3. For Analysis
+
+- Power Bi
+- Tableau
+- SQL (Structured Query Language)
