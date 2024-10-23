@@ -22,6 +22,16 @@ The primary source of Data used here is Dta Sales.XLXS
  At the initial stage of the data cleaning, i performede the folowing steps;
    - remove blank rows and columns
    - remove duplicates
-   - data cleaning and formatting
+   - data cleaning and formatting 
+### Exploratory Data Analysis
+ - EDA involves the exploring of data to answer some questions about the data such as;
+ - The report should capture the following
+1.    Revenue by Region
+2.    Revenue by Sales Rep.
+3.    Revenue by Products
+4. Sales trend
+5.    Yearly changes in revenue
+
+
 
      
