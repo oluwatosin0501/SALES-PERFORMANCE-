@@ -16,5 +16,12 @@ The primary source of Data used here is Dta Sales.XLXS
 
 - Power Bi
 - Tableau
-- SQL (Structured Query Language)
- ### Data Cleaning and
+- SQL (Structured Query Language
+  
+ ### Data Cleaning
+ At the initial stage of the data cleaning, i performede the folowing steps;
+   - remove blank rows and columns
+   - remove duplicates
+   - data cleaning and formatting
+
+     
