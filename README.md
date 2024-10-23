@@ -32,6 +32,12 @@ The primary source of Data used here is Dta Sales.XLXS
 4. Sales trend
 5.    Yearly changes in revenue
 
+   ### Data Analsis
+This is where some functions were used during the analysis 
+``` Excel
+Trim( Proper(A2)
+   
+
 
 
      
