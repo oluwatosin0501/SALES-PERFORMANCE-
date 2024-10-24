@@ -46,6 +46,12 @@ Trim( Proper(A2)
 
 ### Data Visualization
 
+![image](https://github.com/user-attachments/assets/b092eb6b-854d-4201-a4c9-a90deb28c8fa)
+
+![image](https://github.com/user-attachments/assets/df46a6b5-d5f9-4a9c-9545-a2ac3eea571f)
+![image](https://github.com/user-attachments/assets/7e0198ef-35e9-421d-a310-cedcaca41ef6)
+
+
 
    
 
